@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Oii, eu sou a Larissa Vaz! 👋
 <!--
 **Larissavaz/Larissavaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+📚 Sou psicóloga e estou recomeçando meus estudos na área da programação <br>
+👨‍💻 Estudo Full Stack na Forsoft Academy <br>
+💙🌎 Amo viajar, aprender e criar 
+<br>
