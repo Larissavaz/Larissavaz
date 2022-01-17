@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 <br>
 📚 Sou psicóloga e estou recomeçando meus estudos na área da programação <br>
-👨‍💻 Estudo Full Stack na Forsoft Academy <br>
+👨‍💻 Estudo Full Stack<br>
 💙🌎 Amo viajar, aprender e criar 
 <br>
