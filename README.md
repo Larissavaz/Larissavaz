@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-📚 Sou psicóloga e estou recomeçando meus estudos na área da programação <br>
-👨‍💻 Estudo Full Stack<br>
+📚 Sou psicóloga<br>
+👨‍💻 Estudo Frontend de forma independente<br>
 💙🌎 Amo viajar, aprender e criar 
 <br>
